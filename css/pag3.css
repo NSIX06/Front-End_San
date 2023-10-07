@@ -1,0 +1,23 @@
+body{
+    margin: 0;
+    padding: 2% 1%;
+}
+
+
+.carousel-item{
+
+    width: 200px;
+    height: 600px;
+}
+
+
+.carousel-item img{
+
+    position: relative;
+    right: -1250px;
+}
+
+p{
+
+    
+}
